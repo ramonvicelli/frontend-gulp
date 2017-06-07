@@ -1,0 +1,9 @@
+body {
+  color: #333333;
+  background: white;
+}
+
+h1{
+  background: red;
+  transition: box-shadow 0.7s;
+}
